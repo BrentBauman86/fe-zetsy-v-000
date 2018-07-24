@@ -145,3 +145,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
     border: 5px #ccc solid;
     padding: 1px;
 }
+
+/* learn more */
+a {
+    background: transparent;
+}
