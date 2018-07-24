@@ -23,8 +23,9 @@ body {
 /* Write all remaining styles here */
 
 /* h1 font */
-element.style {
-
+h1 {
+    color: rgb(111,127,122);
+    font-size: 2em;
 }
 
 header a {
@@ -100,10 +101,10 @@ body {
 
 /* h2 font */
 
-/*h2 {
+h2 {
     color: rgb(111,127,122);
     font-size: 2em;
-}*/
+}
 
 h2 {
     display: block;
