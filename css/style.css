@@ -22,7 +22,8 @@ body {
 
 /* Write all remaining styles here */
 
-/* h1 font */
+/* h1 and a href font */
+
 h1 {
     color: rgb(111,127,122);
     font-size: 2em;
