@@ -22,6 +22,19 @@ body {
 
 /* Write all remaining styles here */
 
+element.style {
+
+}
+
+header a {
+	color: rgb(152, 173, 166);
+	text-decoration: none;
+}
+
+a {
+	background: transparent;
+}
+
 div {
   transition: background-color 0.5s ease;
   background-color: red;
