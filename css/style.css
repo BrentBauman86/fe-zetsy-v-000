@@ -115,6 +115,3 @@ h2 {
 	border: 5px rgb(152,173,166) solid;
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
-    display: block;
-}
