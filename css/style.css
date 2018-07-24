@@ -141,3 +141,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 }
 
 /* press img */
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+}
