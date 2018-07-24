@@ -150,3 +150,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
 a {
     background: transparent;
 }
+
+/* feature img */
+#featured img {
+    border: 5px rgb(152,173,166) solid;
+}
