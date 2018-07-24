@@ -135,3 +135,7 @@ footer {
 #press {
     margin-bottom: 20px;
 }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
