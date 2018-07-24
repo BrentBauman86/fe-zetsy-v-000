@@ -99,14 +99,11 @@ body {
 }
 
 /* h2 font */
-/*element.style {
 
-}*/
-
-h2 {
+/*h2 {
     color: rgb(111,127,122);
     font-size: 2em;
-}
+}*/
 
 h2 {
     display: block;
