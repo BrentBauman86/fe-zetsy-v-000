@@ -75,7 +75,9 @@ div {
 }
 
 /* section id featured */
-
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
 /* paragraph font */
 p {
     color: #555;
