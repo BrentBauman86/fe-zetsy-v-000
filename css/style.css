@@ -18,4 +18,9 @@ body {
 	padding: 0 45px 20px;
 }
 
+div {
+  transition: background-color 0.5s ease;
+  background-color: red;
+}
+
 /* Write all remaining styles here */
