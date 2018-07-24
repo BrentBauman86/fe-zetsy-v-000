@@ -44,6 +44,11 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 
+h1 {
+    font-size: 2em;
+    margin: .67em 0;
+}
+
 div {
   transition: background-color 0.5s ease;
   background-color: red;
