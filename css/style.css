@@ -79,10 +79,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, 
     display: block;
 }
 
-article, aside, footer, header, hgroup, main, nav, section {
-    display: block;
-}
-
 /* paragraph font */
 p {
     color: #555;
