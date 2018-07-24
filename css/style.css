@@ -59,6 +59,12 @@ h1 {
     font-weight: bold;
 }
 
+body {
+    background: #F3EBE9;
+    font-size: 100%;
+    font-family: 'Times New Roman', serif;
+}
+
 div {
   transition: background-color 0.5s ease;
   background-color: red;
